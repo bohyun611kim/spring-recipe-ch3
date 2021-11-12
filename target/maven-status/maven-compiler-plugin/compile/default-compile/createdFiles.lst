@@ -1,0 +1,9 @@
+com\apress\springrecipes\court\config\CourtConfiguration.class
+com\apress\springrecipes\court\domain\Reservation.class
+com\apress\springrecipes\court\domain\SportType.class
+com\apress\springrecipes\court\web\WelcomeController.class
+com\apress\springrecipes\court\service\ReservationService.class
+com\apress\springrecipes\court\service\ReservationServiceImpl.class
+com\apress\springrecipes\court\domain\Player.class
+com\apress\springrecipes\court\web\CourtWebApplicationInitializer.class
+com\apress\springrecipes\court\web\ReservationQueryController.class
